@@ -1,0 +1,47 @@
+{
+   "Safety Box": 276999,
+   "Months": {
+      "03/2026": {
+         "Income": {
+            "total": 345677,
+            "Salary": 345677,
+            "Allowance": 0,
+            "Full-time job": 0,
+            "Part-time job": 0,
+            "Other": 0
+         },
+         "Expense": {
+            "total": 68678,
+            "Food": 68678,
+            "Transport": 0,
+            "Entertainment": 0,
+            "Education": 0,
+            "Other": 0
+         },
+         "Saving": {
+            "total": 276999
+         }
+      },
+      "04/2026": {
+         "Income": {
+            "total": 5465,
+            "Salary": 5465,
+            "Allowance": 0,
+            "Full-time job": 0,
+            "Part-time job": 0,
+            "Other": 0
+         },
+         "Expense": {
+            "total": 0,
+            "Food": 0,
+            "Transport": 0,
+            "Entertainment": 0,
+            "Education": 0,
+            "Other": 0
+         },
+         "Saving": {
+            "total": 5465
+         }
+      }
+   }
+}
